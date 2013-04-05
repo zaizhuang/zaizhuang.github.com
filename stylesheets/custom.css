@@ -32,6 +32,7 @@
 
 #sidebar ul li a{
   color: #555;
+  display: inline-block;
 }
 
 #sidebar ul li.active a{
