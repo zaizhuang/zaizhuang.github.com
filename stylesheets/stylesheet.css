@@ -62,12 +62,12 @@ a:hover {
   color: #c5000c;
 }
 
-header {
+.header {
   padding-top: 35px;
   padding-bottom: 25px;
 }
 
-header h1 {
+.header h1 {
   font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif; font-weight: 900;
   letter-spacing: -1px;
   font-size: 64px;
@@ -75,7 +75,7 @@ header h1 {
   line-height: 1.2;
 }
 
-header h2 {
+.header h2 {
   letter-spacing: -1px;
   font-size: 24px;
   color: #aaa;
