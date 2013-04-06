@@ -1,3 +1,11 @@
+.faded{
+  color: #bbb;
+}
+
+.small{
+  font-size: 0.9em;
+}
+
 .inner {
   width: 950px;
   margin: 0 auto;
