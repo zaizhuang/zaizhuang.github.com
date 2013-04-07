@@ -92,6 +92,11 @@
   margin-bottom: 20px;
 }
 
+#main .thumbnail-container{
+  float: left;
+  width: 100%;
+}
+
 #main .thumbnail{
   border: 4px solid #fff;
   padding: 5px;
